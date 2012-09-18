@@ -5,6 +5,7 @@ body {
 	color: #000000;
 }
 	
+
 a:link {
 	color: #000000; 
 	text-decoration: underline;
@@ -20,6 +21,12 @@ a:hover {
 	text-decoration: none;
 }
 
+
+.linkalt{
+	color: #FFFFFF !important;
+	text-decoration: none !important;
+}
+
 #header {
 	/*gradients for multiple browsers*/
 	background-image: -webkit-linear-gradient(bottom, #000000 0%, #DC143C 100%);
@@ -30,8 +37,9 @@ a:hover {
 	font-variant: small-caps;
 	font-weight: bold;
 	text-align: center;
-	text-shadow: #FF0000 0 0 0.2em;
+	/*text-shadow: #FF0000 0 0 0.2em;*/
 }
+
 
 #heading_0, #heading_1 {
 	color: #DC143C;
