@@ -29,7 +29,7 @@ a:hover {
 	border-bottom-color: #DC143C;
 	border-bottom-style: solid;
 	border-bottom-width: 2px;
-	width: 300px;
+	/* width: 300px;*/
 }
 
 #info td {
