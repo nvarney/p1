@@ -20,6 +20,14 @@ a:hover {
 	text-decoration: none;
 }
 
+#header {
+	color: #DC143C;
+	font-size: 20px;
+	font-variant: small-caps;
+	font-weight: bold;
+	text-align: center;
+}
+
 #heading {
 	color: #DC143C;
 	font-size: 18px;
@@ -34,7 +42,7 @@ a:hover {
 
 #info td {
 	text-align: center;
-	border: 1px solid #101010;
+	border: 1px solid #000000;
 	padding: 3px 7px 2px 7px;
 }
 
