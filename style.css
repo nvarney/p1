@@ -33,7 +33,7 @@ a:hover {
 	text-shadow: #FF0000 0 0 0.2em;
 }
 
-#heading {
+#heading_0, #heading_1 {
 	color: #DC143C;
 	font-size: 18px;
 	font-variant: small-caps;
