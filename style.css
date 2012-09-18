@@ -21,11 +21,16 @@ a:hover {
 }
 
 #header {
-	color: #DC143C;
-	font-size: 20px;
+	/*gradients for multiple browsers*/
+	background-image: -webkit-linear-gradient(bottom, #000000 0%, #DC143C 100%);
+	background-image: -moz-linear-gradient (bottom, #000000 0%, #DC143C 100%);
+	background-image: -ms-linear-gradient (bottom, #000000 0%, #DC143C 100%);
+	color: #FFFFFF;
+	font-size: 50px;
 	font-variant: small-caps;
 	font-weight: bold;
 	text-align: center;
+	text-shadow: #FF0000 0 0 0.2em;
 }
 
 #heading {
@@ -41,7 +46,7 @@ a:hover {
 }
 
 #info td {
-	text-align: center;
+	text-align: left;
 	border: 1px solid #000000;
 	padding: 3px 7px 2px 7px;
 }
