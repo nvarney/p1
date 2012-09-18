@@ -21,7 +21,7 @@ a:hover {
 	text-decoration: none;
 }
 
-
+/*Overrides anchor behavior for header*/
 .linkalt{
 	color: #FFFFFF !important;
 	text-decoration: none !important;
