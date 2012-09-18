@@ -1,18 +1,26 @@
 body {
-
 	background: #FFFFFF url(images/img01.gif) repeat-x;
 	font-family: Verdana, Arial, sans-serif;
 	font-size: 15px;
 	color: #;
-	link {color: #000000; text-decoration: underline; }
-	active {color: #0000ff; text-decoration: underline; }
-	visited {color: #008000; text-decoration: underline; }
-	hover {color: #ff0000; text-decoration: none; }
-
+}
+	
+a:link {
+	color: #000000; 
+	text-decoration: underline;
 }
 
-#heading
-{
+a:visited {
+	color: #DC143C;
+	text-decoration: underline;
+}
+
+a:hover {
+	color: #FF0000;
+	text-decoration: none;
+}
+
+#heading {
 	color: #DC143C;
 	font-size: 18px;
 	font-variant: small-caps;
@@ -22,19 +30,15 @@ body {
 	border-bottom-style: solid;
 	border-bottom-width: 2px;
 	width: 300px;
-
-
 }
 
 
-#info tr.alt td 
-{
+#info tr.alt td {
 	color: white;
 	background-color: black;
 }
 
-#info td
-{
+#info td {
 	text-align: center;
 	color: white;
 	background-color: grey;
