@@ -1,23 +1,22 @@
 <!DOCTYPE html>
 <html>
 <head>
-  	<meta charset="UTF-8">
-  	<meta name="author" content="Varney">
-  	<meta name="description" content="Nathan Varney's Project 1">
-  	<link rel="stylesheet" href="style.css" type="text/css">
+  	<meta charset='UTF-8'>
+  	<meta name='author' content='Varney'>
+  	<meta name='description' content='Nathan Varney's Project 1'>
+  	<link rel='stylesheet' href='style.css' type='text/css'>
 
 	<!--Puts an icon in the address bar-->
-  	<link rel="icon" href="./HomepageTop.ico" type="image/x-icon" />
-  	<link rel="shortcut icon" href="./HomepageTop.ico" type="image/x-icon" />
+  	<link rel='icon' href='./HomepageTop.ico' type='image/x-icon' />
+  	<link rel='shortcut icon' href='./HomepageTop.ico' type='image/x-icon' />
   	<title>Welcome to my Website</title>
  </head>
  <body>
- 	
- 	<h1>
- 		<a class="linkalt" href="http://nathanielvarney.com/dwa/p1">Nathan Varney</a>
- 	</h1>
+ 	<!--Website heading with gradient background-->
+ 	<h1><a class='linkalt' href='http://nathanielvarney.com/dwa/p1'>Nathan Varney</a></h1>
  	
  	<!--Personal description-->
+ 	<div id='
  	<h2>
  		About Me
  	</h2>
@@ -33,24 +32,24 @@
  	<h2>
  		Project Info
  	</h2>	
- 	<div id="info">
+ 	<div id='info'>
  		<br>
  		<table>
- 			<tr class="alt">
+ 			<tr class='alt'>
  				<td>Host</td>
- 				<td><a href="http://asmallorange.com">Asmallorange.com</a></td>
+ 				<td><a href='http://asmallorange.com'>Asmallorange.com</a></td>
  			</tr>
  			<tr>
  				<td>Plan</td>
- 				<td><a href="http://asmallorange.com/hosting/shared/">Small-shared</a></td>
+ 				<td><a href='http://asmallorange.com/hosting/shared/'>Small-shared</a></td>
  			</tr>
- 			<tr class="alt">
+ 			<tr class='alt'>
  				<td>Code Editor</td>
- 				<td><a href="http://www.barebones.com/products/TextWrangler/">TextWrangler</a></td>
+ 				<td><a href='http://www.barebones.com/products/TextWrangler/'>TextWrangler</a></td>
  			</tr>
  			<tr>
  				<td>Git Repo</td>
- 				<td><a href="https://github.com/nvarney/p1">Github.com/nvarney/p1</a></td>
+ 				<td><a href='https://github.com/nvarney/p1'>Github.com/nvarney/p1</a></td>
  			</tr>
  		</table>
  	</div>
