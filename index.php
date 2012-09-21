@@ -13,14 +13,14 @@
  </head>
  <body>
  	
- 	<div id="header">
+ 	<h1>
  		<a class="linkalt" href="http://nathanielvarney.com/dwa/p1">Nathan Varney</a>
- 	</div>
+ 	</h1>
  	
  	<!--Personal description-->
- 	<div id="heading_0">
+ 	<h2>
  		About Me
- 	</div>
+ 	</h2>
  	<p>
  		I grew up in Orlando, Florida. 
  		This means that I'm usually cold from October to May, but never feel like it's too humid. 
@@ -30,9 +30,9 @@
  		I am taking this Dynamic Web Applications course because I enjoy learning new skills and I don't have a personal website yet (seriously, it's almost 2013). 
  	
  	<!--Table for the required project information-->
- 	<div id="heading_1">
+ 	<h2>
  		Project Info
- 	</div>	
+ 	</h2>	
  	<div id="info">
  		<br>
  		<table>
