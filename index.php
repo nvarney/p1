@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  	<meta charset="UTF-8">
+  	<meta name="author" content="Varney">
+  	<meta name="description" content="Nathan Varney's Project 1">
+  	<link rel="stylesheet" href="style.css" type="text/css">
+
+	<!--Puts an icon in the address bar-->
+  	<link rel="icon" href="./HomepageTop.ico" type="image/x-icon" />
+  	<link rel="shortcut icon" href="./HomepageTop.ico" type="image/x-icon" />
+  	<title>Welcome to my Website</title>
+ </head>
+ <body>
+ 	
+ 	<div id="header">
+ 		<a class="linkalt" href="http://nathanielvarney.com/dwa/p1">Nathan Varney</a>
+ 	</div>
+ 	
+ 	<!--Personal description-->
+ 	<div id="heading_0">
+ 		About Me
+ 	</div>
+ 	<p>
+ 		I grew up in Orlando, Florida. 
+ 		This means that I'm usually cold from October to May, but never feel like it's too humid. 
+ 		I moved to Boston with my family after graduating from the University of South Florida. 
+ 		I am currently working in IT at the Harvard School of Public Health, where I get to build AV racks and fix broken equipment, computers, and dreams. 
+ 		In my free time I enjoy running, wandering in the hilarity of the internet, and generally fixing/building/tweaking/keeping-myself-busy-ing. 
+ 		I am taking this Dynamic Web Applications course because I enjoy learning new skills and I don't have a personal website yet (seriously, it's almost 2013). 
+ 	
+ 	<!--Table for the required project information-->
+ 	<div id="heading_1">
+ 		Project Info
+ 	</div>	
+ 	<div id="info">
+ 		<br>
+ 		<table>
+ 			<tr class="alt">
+ 				<td>Host</td>
+ 				<td><a href="http://asmallorange.com">Asmallorange.com</a></td>
+ 			</tr>
+ 			<tr>
+ 				<td>Plan</td>
+ 				<td><a href="http://asmallorange.com/hosting/shared/">Small-shared</a></td>
+ 			</tr>
+ 			<tr class="alt">
+ 				<td>Code Editor</td>
+ 				<td><a href="http://www.barebones.com/products/TextWrangler/">TextWrangler</a></td>
+ 			</tr>
+ 			<tr>
+ 				<td>Git Repo</td>
+ 				<td><a href="https://github.com/nvarney/p1">Github.com/nvarney/p1</a></td>
+ 			</tr>
+ 		</table>
+ 	</div>
+ 	
+ </body>
+</html>
