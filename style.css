@@ -1,18 +1,18 @@
 body {
-	background: #FFFFFF;
+	background: #000000;
 	font-family: Verdana, Arial, sans-serif;
 	font-size: 15px;
-	color: #000000;
+	color: #FFFFFF;
 }
 	
 
 a:link {
-	color: #000000; 
+	color: #DC143C; 
 	text-decoration: underline;
 }
 
 a:visited {
-	color: #000000;
+	color: #DC143C;
 	text-decoration: underline;
 }
 
@@ -22,7 +22,7 @@ a:hover {
 }
 
 /*Overrides anchor behavior for header*/
-.linkalt{
+.no-underline{
 	color: #FFFFFF !important;
 	text-decoration: none !important;
 }
@@ -45,7 +45,6 @@ h1 {
 	font-variant: small-caps;
 	font-weight: bold;
 	text-align: center;
-	/*text-shadow: #FF0000 0 0 0.2em;*/
 }
 
 
@@ -60,12 +59,21 @@ h2 {
 	border-bottom-width: 2px;
 }
 
-#info td {
+#about-me {
+
+}
+
+#projet-info {
+
+}
+
+#project-info td {
 	text-align: left;
 	border: 1px solid #000000;
 	padding: 3px 7px 2px 7px;
 }
 
-#info tr.alt td {
+#project-info tr.alt td {
+	color: #000000;
 	background-color: #FFFFF0;
 }
